@@ -1,4 +1,4 @@
-# Example how to make Semantic Release with Lerna nad Conventional Commits
+# Example how to make Semantic Release with Lerna and Conventional Commits
 
 Boilerplate used in article [Semantic Release with Lerna and Conventional Commits](https://michaljanaszek.com/blog/lerna-conventional-commits)
 

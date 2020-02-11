@@ -7,10 +7,10 @@
     "release": "npx lerna publish --repo-version=1.0.0 --registry http://localhost:4873"
   },
   "devDependencies": {
-    "@commitlint/cli": "^7.0.0",
-    "@commitlint/config-conventional": "^7.0.1",
-    "husky": "^0.14.3",
-    "lerna": "^2.11.0"
+    "@commitlint/cli": "^8.3.5",
+    "@commitlint/config-conventional": "^8.3.4",
+    "husky": "^4.2.1",
+    "lerna": "^3.20.2"
   },
   "commitlint": {
     "extends": [
