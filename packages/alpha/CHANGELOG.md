@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.2.1](https://github.com/reintroducing/lerna-tutorial/compare/@my-scope/alpha@1.2.0...@my-scope/alpha@1.2.1) (2020-02-11)
+
+
+### Bug Fixes
+
+* **stuff:** the world is a cruel place ([f7ca959](https://github.com/reintroducing/lerna-tutorial/commit/f7ca959e4b5b373d1344c7b08b2430b28d5eee9d))
+
+
+
+
+
 # [1.2.0](https://github.com/reintroducing/lerna-tutorial/compare/@my-scope/alpha@1.1.0...@my-scope/alpha@1.2.0) (2020-02-11)
 
 
