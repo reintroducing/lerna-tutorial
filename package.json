@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "private": true,
   "scripts": {
-    "commitmsg": "commitlint -e $GIT_PARAMS"
+    "commitmsg": "commitlint -e $GIT_PARAMS",
+    "release": "npx lerna publish --repo-version=1.0.0 --registry http://localhost:4873"
   },
   "devDependencies": {
     "@commitlint/cli": "^7.0.0",
