@@ -1,1 +1,1 @@
-module.exports = "alphas";
+module.exports = "hello";
