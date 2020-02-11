@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.2.0](https://github.com/reintroducing/lerna-tutorial/compare/@my-scope/alpha@1.1.0...@my-scope/alpha@1.2.0) (2020-02-11)
+
+
+### Features
+
+* add dolly to world in alpha ([8b12fef](https://github.com/reintroducing/lerna-tutorial/commit/8b12fef4357b0ae94eee2be19e7dff62ced017f5))
+
+
+
+
+
 # [1.1.0](https://github.com/reintroducing/lerna-tutorial/compare/@my-scope/alpha@1.0.0...@my-scope/alpha@1.1.0) (2020-02-11)
 
 
